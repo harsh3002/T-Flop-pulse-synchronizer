@@ -1,0 +1,15 @@
+{C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dual_flop_synchro
+
+Top level modules:
+	dual_flop_synchro
+
+} {} {}} {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_pulse_synchro.v} {1 {vlog -work work -stats=none {C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_pulse_synchro.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module t_flop_synchro
+
+Top level modules:
+	t_flop_synchro
+
+} {} {}}

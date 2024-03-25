@@ -1,0 +1,65 @@
+# Compile of t_synchro_tb.v was successful.
+vsim work.t_synchro_tb
+# vsim work.t_synchro_tb 
+# Start time: 09:08:38 on Mar 25,2024
+# Loading work.t_synchro_tb
+# Loading work.t_flop_synchro
+# Loading work.dual_flop_synchro
+add wave -position insertpoint sim:/t_synchro_tb/*
+run
+run
+run
+quit -sim
+# End time: 09:10:17 on Mar 25,2024, Elapsed time: 0:01:39
+# Errors: 0, Warnings: 2
+# Compile of t_synchro_tb.v was successful.
+vsim work.t_synchro_tb
+# vsim work.t_synchro_tb 
+# Start time: 09:10:28 on Mar 25,2024
+# Loading work.t_synchro_tb
+# Loading work.t_flop_synchro
+# Loading work.dual_flop_synchro
+add wave -position insertpoint sim:/t_synchro_tb/*
+run
+run
+run
+quit -sim
+# End time: 09:11:23 on Mar 25,2024, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 2
+# Compile of t_synchro_tb.v was successful.
+vsim work.t_synchro_tb
+# vsim work.t_synchro_tb 
+# Start time: 09:11:38 on Mar 25,2024
+# Loading work.t_synchro_tb
+# Loading work.t_flop_synchro
+# Loading work.dual_flop_synchro
+add wave -position insertpoint sim:/t_synchro_tb/*
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 09:13:28 on Mar 25,2024, Elapsed time: 0:01:50
+# Errors: 0, Warnings: 2
+# Compile of t_synchro_tb.v was successful.
+vsim work.t_synchro_tb
+# vsim work.t_synchro_tb 
+# Start time: 09:13:41 on Mar 25,2024
+# Loading work.t_synchro_tb
+# Loading work.t_flop_synchro
+# Loading work.dual_flop_synchro
+add wave -position insertpoint sim:/t_synchro_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 09:15:13 on Mar 25,2024, Elapsed time: 0:01:32
+# Errors: 0, Warnings: 2

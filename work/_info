@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro
+vdual_flop_synchro
+!s110 1711256355
+!i10b 1
+!s100 Zm`^W]^i^J=olaacX^2KF2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9>6AU:ML975HP5T1eWH[o3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer
+w1711195018
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v
+!i122 0
+L0 4 22
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1711256355.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/dual flop synchro/dual_synchro.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vt_flop_synchro
+!s110 1711288094
+!i10b 1
+!s100 ddK7[R>WQ1G<MQ2^G0Sem2
+R0
+IJgBdNcPKmjo`FkTk1?Q=d1
+R1
+R2
+w1711278079
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_pulse_synchro.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_pulse_synchro.v
+!i122 21
+L0 4 37
+R3
+r1
+!s85 0
+31
+!s108 1711288094.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_pulse_synchro.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_pulse_synchro.v|
+!i113 1
+R4
+R5
+vt_synchro_tb
+!s110 1711338219
+!i10b 1
+!s100 TRP[E9R10HAdYSifC0z;J1
+R0
+IX^iA`ihzPRO?=>i7[=:>21
+R1
+R2
+w1711338218
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_synchro_tb.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_synchro_tb.v
+!i122 26
+L0 5 38
+R3
+r1
+!s85 0
+31
+!s108 1711338219.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_synchro_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer/t_synchro_tb.v|
+!i113 1
+R4
+R5
